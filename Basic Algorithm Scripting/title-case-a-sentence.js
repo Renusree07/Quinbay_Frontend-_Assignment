@@ -1,0 +1,1 @@
+const titleCase=(str) => str.split(' ').map(x=> x.charAt(0).toUpperCase()+x.substring(1).toLowerCase()).join(' ');

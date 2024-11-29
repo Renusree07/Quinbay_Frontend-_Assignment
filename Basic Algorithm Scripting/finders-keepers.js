@@ -1,0 +1,1 @@
+const findElement=(arr, func) =>  arr.find(func);
